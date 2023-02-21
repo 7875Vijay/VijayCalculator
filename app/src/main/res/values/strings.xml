@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VijayCalculator</string>
+    <string name="app_name">CalC</string>
     <string name="_0">0</string>
     <string name="c">C</string>
     <string name="open_brace">(</string>
